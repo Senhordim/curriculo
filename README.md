@@ -4,6 +4,9 @@
 
 Local: Taubaté - SP | Idade: 32 anos
 
+* diego.collares@gmail.com
+* 12 97406-3833
+
 Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
 e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
 para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
@@ -69,8 +72,3 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 * Pós em Tecnologias Web para negócios (FEJAL)
  
 
---- 
-
-  
-Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](diego.collares@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
