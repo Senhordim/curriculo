@@ -8,7 +8,7 @@ Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutan
 e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
 para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
 
-Atualmente trabalho na Rede social [Startamus](http://startamus.com.br "Link") 
+Atualmente trabalho na [Startamus](http://startamus.com.br "Link") 
 
 blog: [https://medium.com/@senhordim](https://medium.com/@senhordim "Blog pessoal")  
 twitter: [@Senhordim](http://twitter.com/Senhordim "pessoal")  
@@ -17,8 +17,8 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 
 ## Conhecimentos
 
-* Ruby (3 anos)
-* Javascript (3 anos)
+* Ruby (4 anos)
+* Javascript (4 anos)
 * HTML e CSS (SASS)
 * Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
