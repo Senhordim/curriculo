@@ -73,4 +73,4 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 
   
 Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](https://github.com/inbox/new/danillos "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+[Envie-me uma mensagem ](https://github.com/inbox/new/Senhordim "Envie-me uma mensagem ") e ajude-me a melhora-lo.
