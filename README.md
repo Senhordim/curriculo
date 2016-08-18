@@ -1,31 +1,28 @@
-# Danillo César de O. Melo (currículo)
+# Diego Collares (currículo)
 
 <img src="https://s.gravatar.com/avatar/f9a3243b34313b11ebc5b8a95f8a629e?s=80" />
 
-Local: Maceió - Alagoas | Idade: 25 anos
+Local: Taubaté - SP | Idade: 32 anos
 
 Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
 e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
 para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
 
-Atualmente trabalho na Rede social [Edufindme](http://edufindme.com "Link") e em minha empresa [Sook](http://sook.com.br "link")
+Atualmente trabalho na Rede social [Startamus](http://startamus.com.br "Link") 
 
-blog: [http://www.danillocesar.com.br](http://www.danillocesar.com.br "Blog pessoal")  
-twitter: [@danillo](http://twitter.com/danillos "pessoal")  
-github: [https://github.com/danillos](https://github.com/danillos "pessoal") e [https://github.com/sook](https://github.com/sook "empresa")  
-forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal") 
+blog: [https://medium.com/@senhordim](https://medium.com/@senhordim "Blog pessoal")  
+twitter: [@Senhordim](http://twitter.com/Senhordim "pessoal")  
+github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal") 
+
 
 ## Conhecimentos
 
-* PHP (7 anos)
 * Ruby (3 anos)
 * Javascript (3 anos)
-* HTML e CSS (LESS)
+* HTML e CSS (SASS)
 * Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
 * Desenvolvimento Ágil
-* User experience e design ([alguns trabalhos](http://forrst.me/danillos/posts "forrst")) 
-* Segurança e performance web (já prestei pequenas consultorias)
 * Inglês suficiente para ler e entender.
 
 ## Projetos
