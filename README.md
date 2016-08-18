@@ -1,6 +1,6 @@
 # Danillo César de O. Melo (currículo)
 
-<img src="http://www.gravatar.com/avatar/a0ff40b949139bdf83174f89f04407a3.png" />
+<img src="https://s.gravatar.com/avatar/f9a3243b34313b11ebc5b8a95f8a629e?s=80" />
 
 Local: Maceió - Alagoas | Idade: 25 anos
 
