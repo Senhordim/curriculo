@@ -20,6 +20,7 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 * Ruby (4 anos)
 * Javascript (4 anos)
 * HTML e CSS (SASS)
+* Haml e Slim
 * Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
 * Desenvolvimento Ágil
