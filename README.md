@@ -20,8 +20,8 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 
 ## Conhecimentos
 
-* Ruby (4 anos)
-* Javascript (4 anos)
+* Ruby 
+* Javascript 
 * HTML e CSS (SASS)
 * Haml e Slim
 * PostgreSQL 
