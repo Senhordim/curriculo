@@ -10,7 +10,6 @@ Local: Taubaté - SP | Idade: 32 anos
 Sou desenvolvedor web a mais de 7 anos, trabalho sempre escutando uma boa música. Gosto muito do que faço
 e sempre estou em busca de me manter atualizado nas novas tecnologias e tendências. 
 
-
 Atualmente trabalho na [Startamus](http://startamus.com.br "Link") 
 
 blog: [https://medium.com/@senhordim](https://medium.com/@senhordim "Blog pessoal")  
@@ -23,6 +22,7 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 * Ruby 
 * Javascript 
 * HTML e CSS (SASS)
+* AngularJS
 * Haml e Slim
 * PostgreSQL 
 * Sistemas de controle de versão (git, svn)
@@ -34,27 +34,9 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 
 ### Open Sources
 
-* **Drumon Framework** (php) ([link](http://github.com/sook/drumon_framework "github"))  
+* **App fitness** (ruby) ([link](https://github.com/Senhordim/appfitness "github"))  
  
-   Framework em PHP para desenvolvimento rápido de aplicações web.
-
-* **Fire Event** (php) ([link](https://github.com/danillos/fire_event "github"))  
-
-   Event Dispatcher Class em PHP, criado para ser usado no Drumon Framework e foi utilizado pelo anandkunal em seu framework [ToroPHP](https://github.com/anandkunal/ToroPHP "github") 
-
-
-* **TinyAlert** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tinyalert "link"))  
- 
-   Simples e leve sistema de alerta
-
-
-* **Tiny Next Select** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tiny-next-select "link")) 
-
-   Framework em PHP para desenvolvimento rápido de aplicações web.
-
-
-* **Outros no github** ([link](https://github.com/danillos "link")) 
-
+   Sistema de gestão de Academia.
 
 ### Proprietários
 
