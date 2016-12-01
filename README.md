@@ -19,6 +19,9 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 
 ## Conhecimentos
 
+* Desenvolvimento Ágil
+* Sistemas de controle de versão (git, svn)
+
 ### Web
 
 * Ruby
@@ -27,10 +30,19 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 * AngularJS
 * Haml e Slim
 * PostgreSQL
-* Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
-* Desenvolvimento Ágil
-* Inglês suficiente para ler e entender.
+
+### Mobile
+
+* Xcode
+* Swift 3
+* iOS 10
+* Mapas & Geolocalização
+* Core Data
+* Firebase
+* CocoaPods
+
+
 
 ## Projetos
 
