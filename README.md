@@ -10,7 +10,7 @@ Local: Taubaté - SP | Idade: 32 anos
 Sou desenvolvedor web a mais de 7 anos, trabalho sempre escutando uma boa música. Gosto muito do que faço
 e sempre estou em busca de me manter atualizado nas novas tecnologias e tendências.
 
-Atualmente estou em busca de uma nova oportunidade como desenvolvedor mobile (IOS)
+Atualmente estou em busca de uma nova oportunidade como desenvolvedor mobile (IOS).
 
 blog: [https://medium.com/@senhordim](https://medium.com/@senhordim "Blog pessoal")  
 github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
@@ -44,6 +44,10 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 ## Projetos
 
 ### Minhas experências
+
+* **Via Embratel** (Desenvolvedor Rails - 2008 a 2009)   
+
+   Responsável por rescrever um sistema de (gestão de vendas) legado em php para Ruby on Rails.
 
 * **Code Commerce** (Desenvolvedor Rails - 2009 a 2011)   
 
