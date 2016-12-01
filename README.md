@@ -13,9 +13,7 @@ e sempre estou em busca de me manter atualizado nas novas tecnologias e tendênc
 Atualmente estou em busca de uma nova oportunidade como desenvolvedor mobile (IOS)
 
 blog: [https://medium.com/@senhordim](https://medium.com/@senhordim "Blog pessoal")  
-twitter: [@Senhordim](http://twitter.com/Senhordim "pessoal")  
 github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
-
 
 ## Conhecimentos
 
@@ -25,6 +23,7 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 ### Web
 
 * Ruby
+* Rails
 * Javascript
 * HTML e CSS (SASS)
 * AngularJS
@@ -42,28 +41,18 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 * Firebase
 * CocoaPods
 
-
-
 ## Projetos
 
-### Open Sources
+### Minhas experências
 
-* **App fitness** (ruby) ([link](https://github.com/Senhordim/appfitness "github"))  
+* **Code Commerce** (Desenvolvedor Rails - 2009 a 2011)   
 
-   Sistema de gestão de Academia.
+   Responsável por criar, dar manutenção e desenvolver novas funcionalidades em soluções para e-commerce.
 
-### Proprietários
+* **Maino Sistemas** (Desenvolvedor Rails - 2011 a 2015) ([link](http://www.maino.com.br/ "Maino Sistemas"))  
 
-* **Sook CMS** (Ruby on Rails) ([screenshot](https://github.com/danillos/curriculo/raw/master/images/cms_sook.jpg "foto"))  
-
-  Gerenciador de conteúdo escrito em Ruby on Rails que acessa remotamente o banco de dados do cliente.
-
-## Outros
-
-* Ganhei o Prêmio Imaster Intercon 2005 na categoria Web Standards
-*
+   Responsável por dar manutenção e desenvolver novas funcionalidades de alguns produtos da empresa.
 
 ## Formação
 
-* Graduado em Sistemas de Informação pela (FAL)
-* Pós em Tecnologias Web para negócios (FEJAL)
+* Graduado em Análise e Desenvolvimento de Sistemas (FAC Senac)
