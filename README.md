@@ -8,23 +8,25 @@ Local: Taubaté - SP | Idade: 32 anos
 * 12 97406-3833
 
 Sou desenvolvedor web a mais de 7 anos, trabalho sempre escutando uma boa música. Gosto muito do que faço
-e sempre estou em busca de me manter atualizado nas novas tecnologias e tendências. 
+e sempre estou em busca de me manter atualizado nas novas tecnologias e tendências.
 
-Atualmente trabalho na [Startamus](http://startamus.com.br "Link") 
+Atualmente estou em busca de uma nova oportunidade como desenvolvedor mobile (IOS)
 
 blog: [https://medium.com/@senhordim](https://medium.com/@senhordim "Blog pessoal")  
 twitter: [@Senhordim](http://twitter.com/Senhordim "pessoal")  
-github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal") 
+github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 
 
 ## Conhecimentos
 
-* Ruby 
-* Javascript 
+### Web
+
+* Ruby
+* Javascript
 * HTML e CSS (SASS)
 * AngularJS
 * Haml e Slim
-* PostgreSQL 
+* PostgreSQL
 * Sistemas de controle de versão (git, svn)
 * Testes automatizados (bdd, tdd)
 * Desenvolvimento Ágil
@@ -35,7 +37,7 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 ### Open Sources
 
 * **App fitness** (ruby) ([link](https://github.com/Senhordim/appfitness "github"))  
- 
+
    Sistema de gestão de Academia.
 
 ### Proprietários
@@ -47,11 +49,9 @@ github: [https://github.com/Senhordim](https://github.com/Senhordim "pessoal")
 ## Outros
 
 * Ganhei o Prêmio Imaster Intercon 2005 na categoria Web Standards
-* 
+*
 
 ## Formação
 
 * Graduado em Sistemas de Informação pela (FAL)
 * Pós em Tecnologias Web para negócios (FEJAL)
- 
-
